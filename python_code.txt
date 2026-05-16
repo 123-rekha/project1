@@ -7,3 +7,6 @@ warnings.filterwarnings('ignore')
 plt.rcParams['figure.figsize']=(5,5)
 plt.rcParams['figure.dpi']=150
 sns.set_theme(style = 'darkgrid',palette ='viridis')
+
+print('This is my first project')
+print('My name is Rekha')
